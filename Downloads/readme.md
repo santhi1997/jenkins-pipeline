@@ -1,1 +1,1 @@
-create pipelines by using the adrees of ec 2 instance
+create pipelines by using the adrees of ec2 instance
